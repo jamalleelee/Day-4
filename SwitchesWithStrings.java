@@ -15,7 +15,7 @@ public class SwitchesWithStrings {
 			System.out.println("Great to Hear!");			
 			break;
 		case "bad":
-			System.out.println("I'm Sorry");
+			System.out.println("I'm Sorry Bro");
 			break;
 
 		default:
